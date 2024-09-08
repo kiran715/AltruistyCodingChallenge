@@ -1,3 +1,4 @@
+#Question 1
 def findPairs(nums):
     hm = {}
     for num in nums:
