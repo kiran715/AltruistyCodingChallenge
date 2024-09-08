@@ -1,3 +1,4 @@
+# Question 4
 def reduceTicketPrice(price, k):
     stack = []
     for digit in price:
